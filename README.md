@@ -1,5 +1,5 @@
-<h1 align="center">Bonjour et bienvenu sur ma page Github !</h1>
-<h3 align="center">développeur Web & application !</h3>
+<h1 align="center">✨ Je vous souhaite la bienvenue sur ma page Github! !</h1>
+<h3 align="center">🚀 développeur Web & application !</h3>
 
 - 👉 je suis actuellement sur le parcours développeur d'applications python chez Openclassrooms. [Formation développeur d'application Python.](https://openclassrooms.com/fr/paths/879-developpeur-dapplication-python)
 
