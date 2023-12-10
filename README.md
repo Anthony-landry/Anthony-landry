@@ -1,11 +1,11 @@
-<h1 align="center">Bonjour je suis Landry anthony</h1>
+<h1 align="center">Bonjour et bienvenu sur ma page Github !</h1>
 <h3 align="center">développeur Web & application !</h3>
 
-- 🔭 je suis actuellement sur le parcours développeur d'applications python chez Openclassrooms. [Formation développeur d'application Python.](https://openclassrooms.com/fr/paths/879-developpeur-dapplication-python)
+- 👉 je suis actuellement sur le parcours développeur d'applications python chez Openclassrooms. [Formation développeur d'application Python.](https://openclassrooms.com/fr/paths/879-developpeur-dapplication-python)
 
-- 🌱 J'ai fini la formation développeur web chez Openclassrooms. **Formation développeur Web.**
+- 👉 J'ai fini la formation développeur web chez Openclassrooms. [Formation développeur Web.]([https://openclassrooms.com/fr/paths/879-developpeur-dapplication-python](https://openclassrooms.com/fr/paths/717-developpeur-web))
 
-- 👨‍💻Mon Portfolio. [Anthony-landry.github.io](Anthony-landry.github.io)
+- 👨‍💻 Mon Portfolio. [Anthony-landry.github.io](Anthony-landry.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
