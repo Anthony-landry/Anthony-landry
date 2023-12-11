@@ -1,13 +1,13 @@
 <h1 align="center">✨ Je vous souhaite la bienvenue sur ma page Github! !</h1>
 <h3 align="center">🚀 développeur Web & application !</h3>
 
-- 👉 je suis actuellement sur le parcours développeur d'applications python chez Openclassrooms. [Formation développeur d'application Python.](https://openclassrooms.com/fr/paths/879-developpeur-dapplication-python)
+- 👉 Je suis actuellement sur le parcours développeur d'applications python chez Openclassrooms. [Formation développeur d'application Python.](https://openclassrooms.com/fr/paths/879-developpeur-dapplication-python)
 
-- 👉 J'ai fini la formation développeur web chez Openclassrooms. [Formation développeur Web.]([https://openclassrooms.com/fr/paths/879-developpeur-dapplication-python](https://openclassrooms.com/fr/paths/717-developpeur-web))
+- 👉 J'ai fini la formation développeur web chez Openclassrooms. [Formation développeur Web.]([https://openclassrooms.com/fr/paths/879-developpeur-dapplication-python](https://openclassrooms.com/fr/paths/717-developpeur-web)
 
 - 👨‍💻 Mon Portfolio. [Anthony-landry.github.io](https://Anthony-landry.github.io)
 
-- 🔍 A LA RECHERCHE D'UN ALTERNANCE EN PHP SYMFONY AVEC OPENCLASSROOMS.
+- 🔍 A LA RECHERCHE D'UNE ALTERNANCE EN PHP SYMFONY AVEC OPENCLASSROOMS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
