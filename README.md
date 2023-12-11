@@ -3,7 +3,7 @@
 
 - 👉 Je suis actuellement sur le parcours développeur d'applications python chez Openclassrooms. [Formation développeur d'application Python.](https://openclassrooms.com/fr/paths/879-developpeur-dapplication-python)
 
-- 👉 J'ai fini la formation développeur web chez Openclassrooms. [Formation développeur Web.]([https://openclassrooms.com/fr/paths/879-developpeur-dapplication-python](https://openclassrooms.com/fr/paths/717-developpeur-web)
+- 👉 J'ai fini la formation développeur web chez Openclassrooms. [Formation développeur Web.](https://openclassrooms.com/fr/paths/717-developpeur-web)
 
 - 👨‍💻 Mon Portfolio. [Anthony-landry.github.io](https://Anthony-landry.github.io)
 
